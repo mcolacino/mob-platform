@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "mob-platform.js",
+  "sourceRoot": "../../src/coffee/",
+  "sources": [
+    "app.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;AAAA;AAAA"
+}
